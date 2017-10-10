@@ -1,4 +1,4 @@
-# :lower_left_fountain_pen: Learning ReactNative present by HHH
+# :book: Learning ReactNative present by HHH
 TRUNKプロダクトチームがお送りするReactNativeの勉強用リポジトリです。コメント、pr等お待ちしております！
 
 ### HHHとは
