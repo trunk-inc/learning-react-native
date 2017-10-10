@@ -13,7 +13,7 @@ ReactNative未経験であるTRUNKプロダクトチームが、ReactNativeを�
 
  \# | 内容  |  リンク  
 --|---|--
- 1 | 環境構築とReactNativeに触れてみる  |  
+ 1 | 環境構築とReactNativeに触ってみよう  | #1 
   |   |  
 
 
