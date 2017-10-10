@@ -4,7 +4,7 @@ TRUNKプロダクトチームがお送りするReactNativeの勉強用リポジ�
 # :rocket: 目標
 ReactNative未経験であるTRUNKプロダクトチームが、ReactNativeを用いたネイティブアプリ開発できるようになります！
 
-# :fire: メンバー
+# :man:women: メンバー
 
 - 布田隆介 [レジュメはこちら](https://trunk.fm/resumes/206168176)
 - 杉田賢人 [レジュメはこちら](https://trunk.fm/resumes/362026446)
