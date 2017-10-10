@@ -1,4 +1,4 @@
-# learning-react-native
+# Learning ReactNative
 TRUNKプロダクトチームがお送りするReactNativeの勉強用リポジトリです。コメント、pr等お待ちしております！
 
 # :rocket: 目標
