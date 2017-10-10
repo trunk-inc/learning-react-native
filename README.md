@@ -13,7 +13,7 @@ ReactNative未経験であるTRUNKプロダクトチームが、ReactNativeを�
 
  \# | 内容  |  リンク  
 --|---|--
- [1](https://github.com/trunk-inc/learning-react-native/issues/1) | 環境構築とReactNativeに触ってみよう  | 
+ 1 | [環境構築とReactNativeに触ってみよう](https://github.com/trunk-inc/learning-react-native/issues/1)  | 
   |   |  
 
 
