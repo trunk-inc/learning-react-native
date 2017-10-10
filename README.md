@@ -11,8 +11,8 @@ ReactNative未経験であるTRUNKプロダクトチームが、ReactNativeを�
 
 # :calendar:計画
 
- # | 内容  |  リンク  
---|---|--  
+ \# | 内容  |  リンク  
+--|---|--
  1 | 環境構築とReactNativeに触れてみる  |  
   |   |  
 
