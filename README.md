@@ -3,7 +3,7 @@ TRUNKプロダクトチームがお送りするReactNativeの勉強用リポジ�
 
 ### HHHとは
 HHHとはTRUNKプロダクトチームのプリンシプルです！
-HHHの詳しい説明か[こちら！](http://room.trunk.fm/product/6108)
+HHHの詳しい説明は[こちら！](http://room.trunk.fm/product/6108)
 
 # :rocket:目標
 ReactNative未経験であるTRUNKプロダクトチームが、ReactNativeを用いたネイティブアプリ開発できるようになるのを目指します。
